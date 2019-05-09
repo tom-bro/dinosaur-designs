@@ -1,6 +1,6 @@
 html {
   background-color: #f2f1ed;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   line-height: 1.5;
 }
 
@@ -11,16 +11,18 @@ img {
 h1,
 h2 {
   color: #5d8432;
+  font-family: "Patua One", sans-serif;
   text-transform: uppercase;
 }
 
 figcaption {
-  font-size: 0.8rem;
+  font-size: .8rem;
   font-style: italic;
   text-align: center;
 }
 
 nav {
+  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -40,5 +42,5 @@ nav a:hover {
 }
 
 .intro {
-    font-size: 1rem;    
+  font-size: 1rem;
 }
